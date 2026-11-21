@@ -1,0 +1,6 @@
+{
+  "name": "OntoStudio — 现代本体工程与知识图谱架构实验室",
+  "description": "交互式现代本体编辑器、四层本体架构解析、全流程开发规范、典型工业应用形态与大规模知识图谱构建及查询性能优化实验室。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
